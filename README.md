@@ -1,2 +1,2 @@
 # cajero_app
-Este es el front_end del cajero
+Este es el frontend del cajero
